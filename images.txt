@@ -13,3 +13,4 @@ jc21/nginx-proxy-manager
 --platform=linux/arm64 alpine
 --platform=linux/arm64 ghcr.io/remsky/kokoro-fastapi-cpu:v0.2.2
 --platform=linux/arm64 jc21/nginx-proxy-manager
+--platform=linux/arm64 ghcr.io/swivid/f5-tts:main
