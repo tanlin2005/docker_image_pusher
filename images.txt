@@ -14,5 +14,5 @@
 #--platform=linux/arm64 ghcr.io/remsky/kokoro-fastapi-cpu:v0.2.2
 #--platform=linux/arm64 jc21/nginx-proxy-manager
 
-registry.hf.space/prithivmlmods-firered-image-edit-1-0-fast:latest
+#registry.hf.space/prithivmlmods-firered-image-edit-1-0-fast:latest
 fathyb/carbonyl
